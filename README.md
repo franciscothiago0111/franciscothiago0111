@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, Eu sou Francisco Thiago</h1>
+<h1 align="center">Olá👋, Eu sou Francisco Thiago</h1>
 <h3 align="center">Apaixonado por tecnologia.</h3>
 
-- 🎓 Sou formado em Ciência da Computação e estou na busca de uma oportunidade no mercado de trabalho;
-- 🔭 Atualmente, estou trabalhando com o Framework Laravel (também estou aprimorando minhas estruturas de dados e habilidades de algoritmos regularmente);
+- 🎓 Formado em Ciência da Computação em busca de uma oportunidade no mercado de trabalho como Desenvolvedor BackEnd JR;
+- 🔭 Atualmente, estou aprimorando meus conhecimentos em PHP junto com o Framework Laravel (também estou aprimorando minhas estruturas de dados e habilidades de algoritmos regularmente);
 - 🤝 Estou procurando colaborar em projetos de comunidades para um aprendizado profundo; 
 
 <h3 align="left">Connect with me:</h3>
