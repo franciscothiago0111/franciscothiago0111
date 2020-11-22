@@ -1,11 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Francisco Thiago</h1>
+<h1 align="center">Hi 👋, Eu sou Francisco Thiago</h1>
 <h3 align="center">Apaixonado por tecnologia.</h3>
 
-Sou formado em engenharia em busca de oportunidades e colaboração em projetos relacionados à ciência de dados e aprendizado profundo..
-- 🔭 Atualmente, estou trabalhando com o Framework Laravel (também estou aprimorando minhas estruturas de dados e habilidades de algoritmos regularmente).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🎓 Sou formado em Ciência da Computação e estou na busca de uma oportunidade no mercado de trabalho;
+- 🔭 Atualmente, estou trabalhando com o Framework Laravel (também estou aprimorando minhas estruturas de dados e habilidades de algoritmos regularmente);
+- 🤝 Estou procurando colaborar em projetos de comunidades para um aprendizado profundo; 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
