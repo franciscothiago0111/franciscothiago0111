@@ -9,9 +9,9 @@
 
 <h4 align="left">🌐 Connect with me:</h4>
 <p align="left">
- <p>
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscothiago/)](https://www.linkedin.com/in/franciscothiago/)
- </p> 
+ 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscothiago/)](https:  //www.linkedin.com/in/franciscothiago/)
+
 
 
 
