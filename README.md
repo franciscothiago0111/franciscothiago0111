@@ -1,6 +1,9 @@
 
 <h2 align="center">Olá👋, Eu sou Francisco Thiago</h2>
 
+<h4 align="left">😎 Profile.</h4>
+- Apaixonado por tecnologia, tenho formação técnica em Eletromecânica e superior em Ciência da Computação, meu objetivo atual é ingressar no mercado de trabalho como   desenvolvedor PHP, mas estou aberto sempre a novos desafios. No tempo livre gosto de sair com amigos, jogos online e assistir partidas de futebol.
+
 <h4 align="left">✨ Features.</h4>
 
 - 🎓 Formado em Ciência da Computação em busca de uma oportunidade no mercado de trabalho como Desenvolvedor BackEnd JR;
