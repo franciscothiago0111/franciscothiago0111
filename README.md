@@ -8,8 +8,8 @@
 
 <h4 align="left">✨ Features.</h4>
   <ul>
-     <li>🎓 Formado em Ciência da Computação em busca de uma oportunidade no mercado de trabalho como Desenvolvedor BackEnd JR;</li>
-     <li>🔭 Atualmente, estou aprimorando meus conhecimentos em PHP junto com o Framework Laravel (também estou aprimorando minhas estruturas de dados e habilidades de algoritmos regularmente);</li>
+     <li>   IXC SOFT - Dev Full stack</li>    
+     <li>🎓 Formado em Ciência da Computação</li>    
      <li>🤝 Estou procurando colaborar em projetos de comunidades para um aprendizado profundo; </li>
   </ul>
   
