@@ -3,7 +3,7 @@
 
 <h4 align="left">😎 Profile.</h4>
 
-  <p>Apaixonado por tecnologia, tenho formação técnica em Eletromecânica e superior em Ciência da Computação, meu objetivo atual é ingressar no mercado de trabalho como   desenvolvedor PHP, mas estou aberto sempre a novos desafios. No tempo livre gosto de sair com amigos, jogos online e assistir partidas de futebol.</p>
+  <p>Desenvolvedor Full Stack e amante da tecnologia, possuo graduação em Ciências da computação e experiência comprovada na área, utilizando as principias tecnologias e buscando sempre me aprimorar e investir em novos conhecimentos.</p>
 
 
 <h4 align="left">✨ Features.</h4>
