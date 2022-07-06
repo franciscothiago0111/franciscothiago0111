@@ -3,17 +3,7 @@
 
 <h4 align="left">😎 Profile.</h4>
 
-  <p>Desenvolvedor Full Stack e amante da tecnologia, possuo graduação em Ciências da computação e experiência comprovada na área, utilizando as principias tecnologias e buscando sempre me aprimorar e investir em novos conhecimentos.</p>
-
-
-<h4 align="left">✨ Features.</h4>
-  <ul>
-     <li>   IXC SOFT - Dev Full stack</li>    
-     <li>🎓 Formado em Ciência da Computação</li>    
-     <li>🤝 Estou procurando colaborar em projetos de comunidades para um aprendizado profundo; </li>
-  </ul>
-  
-
+  <p>Desenvolvedor Full Stack e amante da tecnologia, possuo graduação em Ciências da computação e experiência comprovada na área, utilizando as principias tecnologias e buscando sempre me aprimorar e investir em novos conhecimentos.</p>  
 
 <h4 align="left">🌐 Connect with me:</h4>
 <p align="left">
