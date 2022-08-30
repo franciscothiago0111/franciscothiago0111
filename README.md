@@ -11,6 +11,9 @@ o intuito de ter as melhores soluções para os problemas,sempre pensando na sat
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscothiago/)](https://www.linkedin.com/in/franciscothiago/)
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:franciscothioago0111@gmail.com)](mailto:franciscothioago0111@gmail.com)
+
+
 
 
 
