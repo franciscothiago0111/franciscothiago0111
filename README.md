@@ -3,7 +3,8 @@
 
 <h4 align="left">😎 Profile.</h4>
 
-  <p>Desenvolvedor Full Stack e amante da tecnologia, possuo graduação em Ciências da computação e experiência comprovada na área, utilizando as principias tecnologias e buscando sempre me aprimorar e investir em novos conhecimentos.</p>  
+  <p>Desenvolvedor Full Stack com espírito analítico, estou sempre antenado as tendências do mercado, estudando e colocando em prática os conhecimentos obtidos com
+o intuito de ter as melhores soluções para os problemas,sempre pensando na satisfação do usuário ao utilizar o software.</p>  
 
 <h4 align="left">🌐 Connect with me:</h4>
 <p align="left">
