@@ -8,7 +8,7 @@ o intuito de ter as melhores soluções para os problemas,sempre pensando na sat
 
 <h4 align="left">🌐 Connect with me:</h4>
 
-<a href = "mailto:franciscothioago0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:franciscothiago0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/franciscothiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
