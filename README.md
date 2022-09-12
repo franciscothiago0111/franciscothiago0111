@@ -1,7 +1,7 @@
 
 <h2 align="center">Olá👋, Eu sou Francisco Thiago</h2>
 
-<h4 align="left">😎 Profile.</h4>
+<h4 align="left">😎 Perfii.</h4>
 
   <p>Desenvolvedor Full Stack com espírito analítico, estou sempre antenado as tendências do mercado, estudando e colocando em prática os conhecimentos obtidos com
 o intuito de ter as melhores soluções para os problemas,sempre pensando na satisfação do usuário ao utilizar o software.</p>  
