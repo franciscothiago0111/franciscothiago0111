@@ -1,12 +1,12 @@
 
 <h2 align="center">Olá👋, Eu sou Francisco Thiago</h2>
 
-<h4 align="left">😎 Perfii.</h4>
+<h4 align="left">Perfil.</h4>
 
   <p>Desenvolvedor Full Stack com espírito analítico, estou sempre antenado as tendências do mercado, estudando e colocando em prática os conhecimentos obtidos com
 o intuito de ter as melhores soluções para os problemas,sempre pensando na satisfação do usuário ao utilizar o software.</p>  
 
- ### Tecnologias:
+ <h4 align="left">Tecnologias.</h4>
  
   <div>
   <img height= "23"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -30,7 +30,7 @@ o intuito de ter as melhores soluções para os problemas,sempre pensando na sat
  
  <br> 
 
-<h4 align="left">🌐 Contato:</h4>
+<h4 align="left">Contato:</h4>
 
 <a href = "mailto:franciscothiago0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/franciscothiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
