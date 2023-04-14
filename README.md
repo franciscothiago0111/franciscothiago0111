@@ -1,10 +1,11 @@
 
-<h2 align="center">Olá👋, Eu sou Francisco Thiago</h2>
+<h2 align="center">Hi there, I'm Francisco Thiago 👋</h2>
 
-<h4 align="left">Perfil:</h4>
+<h4 align="left">Profile:</h4>
 
-  <p>Desenvolvedor Full Stack com espírito analítico, estou sempre antenado as tendências do mercado, estudando e colocando em prática os conhecimentos obtidos com
-o intuito de ter as melhores soluções para os problemas,sempre pensando na satisfação do usuário ao utilizar o software.</p>  
+  <p>As a Full Stack web developer, I have proficiency in several technologies, including PHP, TypeScript, and Node.js, and specialize in frameworks such as Laravel and NestJS. I also have a strong knowledge of SQL databases and use popular libraries such as jQuery, Bootstrap, and Tailwind to ensure the best user experience.
+
+I am Brazilian and I have an intermediate level of English. Currently, I work as a freelancer, providing services to companies in different hiring formats, according to the needs of each project. My goal is to provide customized solutions to meet the specific needs of my clients, whether they are new or old projects. I am always updating and improving my skills to ensure that my projects are successfully executed and delivered on time.</p>  
 
  <h4 align="left">Tecnologias:</h4>
  
@@ -30,7 +31,7 @@ o intuito de ter as melhores soluções para os problemas,sempre pensando na sat
  
  <br> 
 
-<h4 align="left">Contato:</h4>
+<h4 align="left">Contact:</h4>
 
 <a href = "mailto:franciscothiago0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/franciscothiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
