@@ -7,7 +7,7 @@
 
 I am Brazilian and I have an intermediate level of English. Currently, I work as a freelancer, providing services to companies in different hiring formats, according to the needs of each project. My goal is to provide customized solutions to meet the specific needs of my clients, whether they are new or old projects. I am always updating and improving my skills to ensure that my projects are successfully executed and delivered on time.</p>  
 
- <h4 align="left">Tecnologias:</h4>
+ <h4 align="left">Technologies:</h4>
  
   <div>
   <img height= "23"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -33,7 +33,11 @@ I am Brazilian and I have an intermediate level of English. Currently, I work as
  
  <br> 
  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscothiago0111&theme=blue-green)](https://github.com/franciscothiago0111})
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=franciscothiago0111&theme=blue-green" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscothiago0111}&theme=blue-green&layout=compact" alt="Top Languages" />
+</p>
+
 
 <h4 align="left">Contact:</h4>
 
