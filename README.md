@@ -32,14 +32,11 @@ I am Brazilian and I have an intermediate level of English. Currently, I work as
  </div>
  
  <br> 
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscothiago0111&theme=blue-green)](https://github.com/franciscothiago0111})
 
 <h4 align="left">Contact:</h4>
 
 <a href = "mailto:franciscothiago0111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/franciscothiago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=franciscothiago0111&show_icons=true&locale=en" alt="franciscothiago0111" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscothiago0111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
