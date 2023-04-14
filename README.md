@@ -14,7 +14,7 @@ I am Brazilian and I have an intermediate level of English. Currently, I work as
 <img height="23" src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=FFF&color=007ACC" />
   <img height= "23"src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img height= "23"src= "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img height= "23"src= "[https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)"/>
+  <img height= "23"src= "https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img height= "23"src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img height= "23"src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img height= "23"src= "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
