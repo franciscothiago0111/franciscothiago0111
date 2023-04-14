@@ -24,20 +24,10 @@ I am Brazilian and I have an intermediate level of English. Currently, I work as
   <img height= "23"src= "https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
   <img height= "23"src= "https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
   <img height= "23"src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img height= "23"src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  
- 
-
-
- </div>
+  <img height= "23"src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> 
+  </div>
  
  <br> 
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=franciscothiago0111&theme=blue-green" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscothiago0111}&theme=blue-green&layout=compact" alt="Top Languages" />
-</p>
-
 
 <h4 align="left">Contact:</h4>
 
