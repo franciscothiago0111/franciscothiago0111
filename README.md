@@ -11,6 +11,7 @@ I am Brazilian and I have an intermediate level of English. Currently, I work as
  
   <div>
   <img height= "23"src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img height= "23"src= " https://img.shields.io/badge/TpypeScript-323330?style=for-the-badge&logo=typescript"/>
   <img height= "23"src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img height= "23"src= "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img height= "23"src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
