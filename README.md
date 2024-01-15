@@ -5,7 +5,7 @@
 
   <p>As a Full Stack web developer, I have proficiency in several technologies, including PHP, TypeScript, and Node.js, and specialize in frameworks such as Laravel and NestJS. I also have a strong knowledge of SQL databases and use popular libraries such as jQuery, Bootstrap, and Tailwind to ensure the best user experience.
 
-I am Brazilian and I have an intermediate level of English. Currently, I work as a freelancer, providing services to companies in different hiring formats, according to the needs of each project. My goal is to provide customized solutions to meet the specific needs of my clients, whether they are new or old projects. I am always updating and improving my skills to ensure that my projects are successfully executed and delivered on time.</p>  
+I am Brazilian and I have an intermediate level of English. Currently, I work as a developer, providing services to companies in different hiring formats, according to the needs of each project. My goal is to provide customized solutions to meet the specific needs of my clients, whether they are new or old projects. I am always updating and improving my skills to ensure that my projects are successfully executed and delivered on time.</p>  
 
  <h4 align="left">Technologies:</h4>
  
