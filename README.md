@@ -37,19 +37,6 @@ Atualmente, ofereço serviços para empresas em diferentes formatos de contrata�
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=franciscothiago&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscothiago&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franciscothiago&theme=tokyonight"/>
-</p>
-
----
-
 ### 📫 Contato
 
 Entre em contato comigo por e-mail ou LinkedIn:
