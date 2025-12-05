@@ -1,77 +1,135 @@
 <h2 align="center">Hi, I'm Francisco Thiago 👋</h2>
 
 <p align="center">
-  Full Stack Developer specialized in modern backend systems, scalable APIs, and real-time applications.
+  Full Stack Developer focused on scalable web applications, real-time systems and clean architecture.
 </p>
 
 <p align="center">
-  <strong>Strong focus on Node.js, TypeScript, System Architecture and Cloud-ready applications.</strong>
+  <strong>Strong experience with Node.js, TypeScript, Modern Frontend Architecture and Cloud-ready applications.</strong>
+</p>
+
+<p align="center">
+  🌐 Portfolio: <a href="https://www.franciscothiago.com.br/" target="_blank">www.franciscothiago.com.br</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer based in Brazil**, with a strong focus on **Backend Engineering and Software Architecture**.
+I'm a **Full Stack Developer based in Brazil**, working with **modern web technologies on both backend and frontend**.
 
-I specialize in building **scalable APIs, authentication systems, background job processing, real-time communication, and secure backend services**, always following clean architecture principles and best practices.
+On the **backend**, I build **secure APIs, real-time systems, authentication flows, background jobs and scalable services** using Node.js and TypeScript.
 
-My daily stack includes:
-- **Node.js, TypeScript, and NestJS**
-- **PostgreSQL, Prisma, and Redis**
-- **Docker for environment standardization and deployment**
-- **Next.js and React for frontend integration**
+On the **frontend**, I build **complex dashboards, role-based systems, real-time interfaces, PDF reports, charts and responsive UIs**, focused on performance, usability and maintainability.
 
-I enjoy solving real business problems and transforming complex requirements into **clean, reliable, and performant systems**.
+I enjoy turning complex business rules into **clean, well-structured and production-ready applications**, from database to user interface.
 
 ---
 
-## 🧠 Core Skills
+## 🧠 What I Actually Build
 
-- Backend Architecture & API Design
-- RESTful APIs & Real-Time Systems
+- Full Stack Web Applications
+- Real-Time Dashboards with WebSockets
+- Role-based Access Control (security based on user roles)
+- Authentication & Session Management
+- Complex Forms & Validations
+- PDF & CSV Reports
+- Interactive Charts & Metrics
+- Background Jobs & Async Processing
+- Scalable APIs & System Integrations
+- Clean Architecture & Design Patterns
+- Dockerized Development Environments
+
+---
+
+## 🧩 Architecture & Design Approach
+
+I work with **clean and scalable architectures** on both frontend and backend:
+
+- Feature-based modular structure  
+- Service Layer to separate business logic  
+- Repository Pattern for data access  
+- Provider Pattern for global state  
+- Custom Hooks to encapsulate logic  
+- Interceptor Pattern for request pipelines  
+- **Adapter Pattern to integrate external services**  
+- Strategy Pattern for business rules  
+- Component Composition for flexible UIs  
+
+---
+
+## 🚀 Tech Stack Focus
+
+### Backend
+- Node.js, TypeScript, NestJS  
+- PostgreSQL, Prisma, Redis  
+- REST APIs & WebSockets  
+- Authentication & Authorization (JWT, Role-based access)  
+- Background Jobs & Queues  
+- **Docker for environment standardization and deployment**  
+
+### Frontend
+- React, Next.js (App Router)  
+- TypeScript  
+- React Query (server-state)  
+- React Hook Form + Zod (forms & validation)  
+- Tailwind CSS (responsive UI)  
+- Recharts (dashboards & charts)  
+- Real-time interfaces with Socket.IO  
+- PDF generation and CSV exports  
+
+---
+
+## 🛠️ Skills
+
+### Programming & Languages
+- JavaScript (ES6+)
+- TypeScript
+- SQL
+
+### Backend
+- Node.js
+- NestJS
+- RESTful APIs
+- WebSockets
 - Authentication & Authorization
-- Role-based Access Control
-- Background Jobs & Queues
-- WebSockets & Event-driven Systems
-- Database Modeling & Optimization
-- Frontend & Backend Integration
-- Dockerized Environments
-- Clean Code & Scalable Systems
-- **Design Patterns (Adapter, Strategy, Factory, Observer)**
+- Background Jobs
+- System Integrations
+
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+- Responsive UI
+- Dashboards & Data Visualization
+- Real-time Interfaces
+- Form Validation & UX
+
+### Databases
+- PostgreSQL
+- MySQL
+- Redis
+
+### DevOps & Tools
+- Docker
+- Git & GitHub
+- CI/CD fundamentals
+- API Testing (Postman, Insomnia)
 
 ---
 
-## 🚀 Tech Stack
+## 🌍 Professional Profile
 
-<div align="left">
-  <img height="23" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img height="23" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img height="23" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img height="23" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img height="23" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img height="23" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
-  <img height="23" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img height="23" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img height="23" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img height="23" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img height="23" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
-
----
-
-## 🌍 What I’m Looking For
-
-- Backend Engineer positions (Node.js / TypeScript)
-- Full Stack roles with backend focus
-- International remote opportunities
-- Product-driven teams and scalable systems
+- Full Stack Developer with strong Backend & Frontend balance  
+- Specialized in Node.js + TypeScript ecosystems  
+- Experience with real-time applications  
+- Focused on scalable and maintainable systems  
+- Used to building production-grade dashboards  
+- Comfortable working with international teams and remote environments  
 
 ---
 
 ## 📫 Contact
-
-Feel free to reach out:
 
 <a href="mailto:franciscothiago0111@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -79,6 +137,10 @@ Feel free to reach out:
 
 <a href="https://www.linkedin.com/in/franciscothiago/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.franciscothiago.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 ---
