@@ -8,10 +8,6 @@
   <strong>Strong experience with Node.js, TypeScript, Modern Frontend Architecture and Cloud-ready applications.</strong>
 </p>
 
-<p align="center">
-  🌐 Portfolio: <a href="https://www.franciscothiago.com.br/" target="_blank">www.franciscothiago.com.br</a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
