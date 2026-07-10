@@ -111,8 +111,4 @@ I work with **clean, scalable architectures** on both frontend and backend, incl
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.franciscothiago.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
 ---
