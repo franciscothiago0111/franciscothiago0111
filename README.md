@@ -1,11 +1,11 @@
 <h2 align="center">Hi, I'm Francisco Thiago 👋</h2>
 
 <p align="center">
-  Full Stack Developer focused on scalable web applications, real-time systems and clean architecture.
+  Full Stack Developer focused on scalable web applications, real-time systems and domain-driven architecture.
 </p>
 
 <p align="center">
-  <strong>Strong experience with Node.js, TypeScript, Modern Frontend Architecture and Cloud-ready applications.</strong>
+  <strong>Strong experience with Node.js, TypeScript, NestJS and modern frontend architecture — with a growing focus on Domain-Driven Design on the backend.</strong>
 </p>
 
 ---
@@ -22,6 +22,17 @@ I enjoy turning complex business rules into **clean, well-structured and product
 
 ---
 
+## 🎯 Featured Project
+
+**[EventDesk](https://github.com/franciscothiago0111/eventdesk-api)** — event management platform with real-time, offline-capable attendee check-in.
+
+- Domain-Driven Design end-to-end: aggregates, value objects and domain events, with the domain layer kept free of framework/ORM imports — key decisions documented as ADRs
+- NestJS + Prisma + PostgreSQL backend, BullMQ/Redis queues, Socket.io real-time updates, and a batch endpoint for syncing offline check-ins
+- [Web dashboard](https://github.com/franciscothiago0111/eventdesk-web) in Next.js + TanStack Query with a live check-in feed
+- Full test pyramid — unit, integration and e2e — running in CI on every push
+
+---
+
 ## 🧠 What I Actually Build
 
 - Full Stack Web Applications
@@ -33,95 +44,60 @@ I enjoy turning complex business rules into **clean, well-structured and product
 - Interactive Charts & Metrics
 - Background Jobs & Async Processing
 - Scalable APIs & System Integrations
-- Clean Architecture & Design Patterns
 - Dockerized Development Environments
 
 ---
 
 ## 🧩 Architecture & Design Approach
 
-I work with **clean and scalable architectures** on both frontend and backend:
+I work with **clean, scalable architectures** on both frontend and backend, including full **Domain-Driven Design** on recent backend work:
 
-- Feature-based modular structure  
-- Service Layer to separate business logic  
-- Repository Pattern for data access  
-- Provider Pattern for global state  
-- Custom Hooks to encapsulate logic  
-- Interceptor Pattern for request pipelines  
-- **Adapter Pattern to integrate external services**  
-- Strategy Pattern for business rules  
-- Component Composition for flexible UIs  
+- **Domain-Driven Design** — aggregates, value objects, domain events, repository interfaces
+- Feature-based modular structure
+- Service Layer to separate business logic
+- Repository Pattern for data access
+- Provider Pattern for global state
+- Custom Hooks to encapsulate logic
+- Interceptor Pattern for request pipelines
+- **Adapter Pattern to integrate external services**
+- Strategy Pattern for business rules
+- Component Composition for flexible UIs
 
 ---
 
 ## 🚀 Tech Stack Focus
 
 ### Backend
-- Node.js, TypeScript, NestJS  
-- PostgreSQL, Prisma, Redis  
-- REST APIs & WebSockets  
-- Authentication & Authorization (JWT, Role-based access)  
-- Background Jobs & Queues  
-- **Docker for environment standardization and deployment**  
+- Node.js, TypeScript, NestJS
+- PostgreSQL, Prisma, Redis
+- REST APIs & WebSockets
+- Authentication & Authorization (JWT, Role-based access)
+- Background Jobs & Queues (BullMQ)
+- **Docker for environment standardization and deployment**
+- **CI/CD with GitHub Actions** — lint, build, unit/integration/e2e tests on every push
 
 ### Frontend
-- React, Next.js (App Router)  
-- TypeScript  
-- React Query (server-state)  
-- React Hook Form + Zod (forms & validation)  
-- Tailwind CSS (responsive UI)  
-- Recharts (dashboards & charts)  
-- Real-time interfaces with Socket.IO  
-- PDF generation and CSV exports  
-
----
-
-## 🛠️ Skills
-
-### Programming & Languages
-- JavaScript (ES6+)
+- React, Next.js (App Router)
 - TypeScript
-- SQL
+- TanStack Query (server-state)
+- React Hook Form + Zod (forms & validation)
+- Tailwind CSS (responsive UI)
+- Recharts (dashboards & charts)
+- Real-time interfaces with Socket.IO
+- PDF generation and CSV exports
 
-### Backend
-- Node.js
-- NestJS
-- RESTful APIs
-- WebSockets
-- Authentication & Authorization
-- Background Jobs
-- System Integrations
-
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
-- Responsive UI
-- Dashboards & Data Visualization
-- Real-time Interfaces
-- Form Validation & UX
-
-### Databases
-- PostgreSQL
-- MySQL
-- Redis
-
-### DevOps & Tools
-- Docker
-- Git & GitHub
-- CI/CD fundamentals
-- API Testing (Postman, Insomnia)
+### Testing
+- Jest + Supertest (unit, integration, e2e — backend)
+- Vitest + Testing Library (unit/component — frontend)
+- Playwright (e2e — frontend)
+- MSW for API mocking in tests
 
 ---
 
 ## 🌍 Professional Profile
 
-- Full Stack Developer with strong Backend & Frontend balance  
-- Specialized in Node.js + TypeScript ecosystems  
-- Experience with real-time applications  
-- Focused on scalable and maintainable systems  
-- Used to building production-grade dashboards  
-- Comfortable working with international teams and remote environments  
+- Specialized in Node.js + TypeScript ecosystems, with strong Backend/Frontend balance
+- Comfortable owning a project end-to-end — architecture, backend, frontend and infra
 
 ---
 
